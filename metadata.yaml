@@ -1,0 +1,30 @@
+_repo: Mediaeval-Tales_28094
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2009-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales'
+- !lcsh 'Literature, Medieval -- Translations into English'
+- !lcc 'PN'
+tableOfContents: History of Charles the Great and Orlando. -- The Days of Charlemagne
+  and of the Cid Campeador. -- Gesta Romanorum. -- The Famous History of Dr. Faustus.
+title: Mediaeval Tales
+url: http://www.gutenberg.org/ebooks/28094
